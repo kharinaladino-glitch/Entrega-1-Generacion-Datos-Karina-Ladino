@@ -1,0 +1,10 @@
+P1;Teclado;174787
+P2;Mouse;193751
+P3;Monitor;68938
+P4;Audifonos;36993
+P5;Camara;140841
+P6;Memoria USB;179297
+P7;Parlante;88171
+P8;Impresora;124571
+P9;Router;65101
+P10;Cargador;31749
