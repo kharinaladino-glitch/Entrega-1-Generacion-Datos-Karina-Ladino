@@ -1,9 +1,0 @@
-REVISION FINAL - ENTREGA 3
-- Dos clases principales: GenerateInfoFiles y main.
-- Compilacion comprobada con javac --release 8.
-- Formato de CSV vendedores: nombre;total_recaudado, orden descendente.
-- Formato de CSV productos: nombre;precio, ordenados por cantidad vendida descendente.
-- Los precios no tienen por que estar ordenados de mayor a menor.
-- Se incluye conslusion.txt con los tres temas de la guia.
-- Se incluyen las pruebas documentadas y la guia de sustentacion.
-- Para entrega formal falta publicar/actualizar el repositorio GitHub del estudiante y verificar la sustentacion.
