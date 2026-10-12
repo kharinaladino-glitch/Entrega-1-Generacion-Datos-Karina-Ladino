@@ -1,0 +1,11 @@
+CONCLUSIONES DEL PROYECTO
+Generacion y clasificacion de datos - Entrega 3
+
+1. Lo aprendido durante el desarrollo
+Durante las tres entregas pude comprender mejor como se organiza un programa en Java para resolver una tarea por etapas. Primero se generan los archivos de prueba y luego se leen para calcular y ordenar los resultados. Tambien practique el uso de clases, metodos, ciclos, mapas, listas y archivos de texto. Una parte importante fue comprobar que no basta con obtener un reporte: tambien hay que verificar que los datos esten completos y que las operaciones sean correctas.
+
+2. Aplicaciones en mi vida profesional
+Considero que este ejercicio se puede aplicar a tareas administrativas y financieras, por ejemplo, consolidar las ventas de varias personas, calcular el valor recaudado y organizar reportes para revisar resultados. El proyecto tambien muestra la importancia de validar documentos, cantidades y precios antes de utilizar la informacion para tomar decisiones. Aunque es un programa academico y sencillo, la logica se puede adaptar a procesos reales que manejan archivos de diferentes fuentes.
+
+3. Dificultades encontradas
+Una de las principales dificultades fue relacionar correctamente la informacion de los vendedores, los productos y los archivos de ventas. Tambien fue necesario revisar la lectura de los campos separados por punto y coma y manejar situaciones como archivos vacios, datos incompletos o referencias que no existen. Para solucionarlo, se organizaron las tareas en metodos y se hicieron pruebas con archivos correctos y con errores. Esto ayudo a entender por que las validaciones y la documentacion hacen parte del desarrollo del programa.

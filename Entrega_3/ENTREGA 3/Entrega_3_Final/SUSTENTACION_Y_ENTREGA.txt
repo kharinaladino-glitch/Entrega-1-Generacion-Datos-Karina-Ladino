@@ -1,0 +1,43 @@
+ENTREGA 3 - GUIA BREVE DE SUSTENTACION Y ENTREGA
+Proyecto: Generacion y clasificacion de datos
+Modulo: Conceptos Fundamentales de Programacion
+
+QUE HACE EL PROGRAMA
+El proyecto tiene dos clases con metodo main. Primero ejecuto GenerateInfoFiles, que genera datos de prueba de productos, vendedores y ventas. Luego ejecuto main, que lee los archivos, multiplica el precio por la cantidad vendida, acumula los resultados y crea dos reportes CSV.
+
+ORDEN DE EJECUCION EN ECLIPSE
+1. Importar el proyecto con File > Import > Existing Projects into Workspace.
+2. Verificar que este configurado con Java 8.
+3. Ejecutar GenerateInfoFiles como Java Application.
+4. Ejecutar main como Java Application.
+5. Actualizar la carpeta reportes (F5) y revisar los dos CSV.
+
+PREGUNTAS QUE PODRIA HACER EL DOCENTE
+1. Por que hay dos clases principales?
+Porque una se encarga de generar los archivos de prueba y la otra de procesarlos, como exige la guia.
+2. Como se calcula el valor recaudado por vendedor?
+Para cada venta se multiplica la cantidad por el precio del producto y se suma al total de ese vendedor.
+3. Por que los precios del reporte de productos no estan ordenados?
+Porque la clasificacion es por la cantidad de unidades vendidas. El formato final solicitado muestra nombre y precio, no necesariamente las cantidades.
+4. Que ocurre cuando un dato es incorrecto?
+El programa valida el formato y los identificadores. Si encuentra un error, informa el archivo y la linea en lugar de producir un reporte como si los datos fueran validos.
+5. Que aprendi?
+Aprendi a separar tareas en metodos, leer archivos de texto, relacionar datos mediante identificadores, calcular y ordenar reportes, y probar errores.
+6. Como lo aplicaria profesionalmente?
+En consolidacion de ventas, organizacion de registros y validacion de informacion administrativa o financiera.
+7. Cual fue una dificultad?
+Relacionar el archivo de ventas con el vendedor y el producto correspondiente y manejar archivos incompletos.
+8. Puede un vendedor tener varios archivos?
+Si. El programa suma las ventas de todos los archivos cuyo encabezado corresponda al mismo documento del vendedor.
+
+LISTA DE VERIFICACION ANTES DE ENTREGAR
+[ ] El repositorio tiene los archivos fuente Java y la configuracion de Eclipse.
+[ ] Solo GenerateInfoFiles y main tienen metodo main.
+[ ] Existe el archivo conslusion.txt (asi, con la escritura de la guia).
+[ ] Se pueden ejecutar ambas clases sin pedir datos al usuario.
+[ ] Se generan reporte_vendedores.csv y reporte_productos.csv.
+[ ] README.md explica como ejecutar el programa.
+[ ] El enlace de GitHub abre el repositorio que contiene la entrega final.
+[ ] Verificar en la plataforma de la asignatura la modalidad y el plazo para sustentar.
+
+IMPORTANTE: El programa genera datos aleatorios; los valores cambian en cada ejecucion. No memorizar cifras concretas.

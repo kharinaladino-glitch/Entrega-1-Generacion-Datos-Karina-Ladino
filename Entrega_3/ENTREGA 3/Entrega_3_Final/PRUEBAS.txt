@@ -1,0 +1,15 @@
+EVIDENCIA DE PRUEBAS - ENTREGA 3
+Compilacion: javac --release 8 -d bin src/*.java : CORRECTA
+Ejecucion de GenerateInfoFiles : CORRECTA
+Ejecucion de main : CORRECTA
+
+Pruebas realizadas en carpeta temporal, sin modificar el proyecto base:
+1. Reportes completos y vendedores ordenados: OK
+2. Dos archivos del mismo vendedor, sumando valores: OK
+3. Precio negativo en catalogo: error detectado
+4. ID de producto inexistente en ventas: error detectado
+5. Archivo de ventas vacio: error detectado
+6. Registro de venta con campo faltante: error detectado
+7. Generacion automatica con limpieza de ventas anteriores: OK
+
+Nota: Los datos de entrada se generan pseudoaleatoriamente, por lo que los valores concretos de los reportes cambian en cada ejecucion.
