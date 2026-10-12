@@ -1,0 +1,6 @@
+CC;66643631;Ana;Rodriguez
+CC;96642773;Carlos;Gomez
+CC;40933112;Laura;Martinez
+CC;38962746;Daniel;Lopez
+CC;58323618;Sofia;Ramirez
+CC;48312662;Miguel;Moreno

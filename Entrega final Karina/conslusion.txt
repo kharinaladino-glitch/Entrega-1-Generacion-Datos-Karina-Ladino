@@ -1,0 +1,14 @@
+CONCLUSIONES
+Generación y clasificación de datos
+
+1. Lo que aprendí
+
+Al comenzar este trabajo me costaba entender cómo se relacionaban los archivos con un programa de Java. En la primera entrega trabajé en la generación de información de prueba y en la segunda empecé a ver cómo usar esos datos para obtener resultados. En esta última etapa pude comprobar el proceso completo: generar los archivos, leerlos, calcular las ventas y obtener los reportes. También entendí que no basta con que el programa se ejecute; hay que revisar si los resultados tienen sentido.
+
+2. Cómo puedo aplicarlo en mi vida profesional
+
+En mi trabajo con información administrativa y financiera encuentro útil la idea de reunir datos de varias fuentes y organizarlos en reportes. Por ejemplo, un proceso parecido serviría para resumir ventas por responsable o identificar los productos con mayor movimiento. También aprendí que es importante revisar datos incompletos o equivocados antes de hacer cálculos, porque un pequeño error puede afectar el resultado.
+
+3. Dificultades durante el proyecto
+
+Lo más difícil fue comprender cómo conectar la información de vendedores, productos y ventas sin confundir los datos. También tuve que prestar atención al formato de los archivos de texto y al orden en que se ejecutan las dos clases. Al hacer las pruebas en Eclipse pude ver los mensajes en consola y abrir los reportes generados, lo que me ayudó a entender mejor qué estaba haciendo el programa y por qué era necesario validar la información.
